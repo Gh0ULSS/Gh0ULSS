@@ -5,4 +5,4 @@
 - :dart: Bug Bounties are an interesting way to make money.
 - :chart_with_upwards_trend: I am proficient with Java, C#, Python, SQL and Web Development.
 - :email: How to reach me -> min.hm95@gmail.com
-- :clipboard: Check about my write-ups: https://min-htut-myat.gitbook.io/blog/
+- :clipboard: Check out my write-ups: https://min-htut-myat.gitbook.io/blog/
