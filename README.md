@@ -9,8 +9,8 @@
 
 #### Skills and Competencies
 
-![Programming Languages](https://img.shields.io/badge/Programming%20Languages-Java%20|%20C++%20|%20C%23%20|%20Kotlin%20|%20Python-blue) <br>
-![Web Development and Frameworks](https://img.shields.io/badge/Web%20Development%20and%20Frameworks-HTML%20|%20CSS%20|%20JavaScript%20|%20ASP.NET%20|%20React-blue) <br>
+![Programming Languages](https://img.shields.io/badge/Programming%20Languages-Java%20|%20C++%20|%20C%23%20|%20Kotlin%20|%20Python) <br>
+![Web Development and Frameworks](https://img.shields.io/badge/Web%20Development%20and%20Frameworks-HTML%20|%20CSS%20|%20JavaScript%20|%20ASP.NET%20|%20React) <br>
 ![Linux](https://img.shields.io/badge/Linux-Kali%20Linux%20|%20Ubuntu) <br>
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security|%20Bash%20Scripting%20|%20Python) <br>
 ![Operating System](https://img.shields.io/badge/%20Windows) --> have used windows since older releases like Windows 98 and Windows XP
