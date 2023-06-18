@@ -9,5 +9,5 @@
 
 #### Skills and Competencies
 
-![Programming Languages](https://img.shields.io/badge/Programming%20Languages-C++%20|%20Java%20|%20C#%20|%20Kotlin%20|%20Python-blue)
+![Programming Languages](https://img.shields.io/badge/Programming%20Languages-Java%20|%20C++%20|%20C%23%20|%20Kotlin%20|%20Python-blue)
 
