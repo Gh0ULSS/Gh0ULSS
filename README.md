@@ -10,5 +10,6 @@
 #### Skills and Competencies
 
 ![Programming Languages](https://img.shields.io/badge/Programming%20Languages-Java%20|%20C++%20|%20C%23%20|%20Kotlin%20|%20Python-blue) <br>
-![Web Development and Frameworks](https://img.shields.io/badge/Programming%20Languages-HTML%20|%20CSS%20|%20JavaScript%20|%20ASP.NET%20|%20React&color=blue)
+![Web Development and Frameworks](https://img.shields.io/badge/Web%20Development%20and%20Frameworks-HTML%20|%20CSS%20|%20JavaScript%20|%20ASP.NET%20|%20React-blue) <br>
+
 
