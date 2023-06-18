@@ -15,5 +15,6 @@
 ![Operating System](https://img.shields.io/badge/Operating%20System-Windows-blue) --> have used windows since older releases like Windows 98 and Windows XP
 
 ### Reach out to me
-![Email](min.hm95@gmail.com) <br>
 ![LinkedIn](https://www.linkedin.com/in/min-htut-myat-bb22aa15b/)
+![Email](min.hm95@gmail.com) <br>
+
