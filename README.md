@@ -6,3 +6,7 @@
 - :chart_with_upwards_trend: I am proficient with Java, C#, Python, SQL and Web Development.
 - :email: How to reach me -> min.hm95@gmail.com
 - :clipboard: Check out my write-ups: https://min-htut-myat.gitbook.io/blog/
+
+Skills
+
+![Programming Languages](https://img.shields.io/badge/Programming%20Languages-C++%20|%20Java%20|%20JavaScript%20|%20Python-blue)
