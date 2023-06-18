@@ -9,5 +9,7 @@
 
 Skills
 
-![Programming Languages](https://img.shields.io/badge/Programming%20Languages-Java%20|%20C++%20|%20C#%20|%20Python%20|%20Kotlin%20)
-![Web Development and Frameworks](https://img.shields.io/badge/Web Development%20-HTML%20|%20CSS%20|%20JavaScript%20|%20ASP.NET%20)
+<ul>
+  <li>https://img.shields.io/badge/Programming%20Languages-Java%20|%20C++%20|%20C#%20|%20Python%20|%20Kotlin%20</li>
+  <li>https://img.shields.io/badge/Web Development%20-HTML%20|%20CSS%20|%20JavaScript%20|%20ASP.NET%20</li>
+</ul>
