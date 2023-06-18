@@ -4,7 +4,6 @@
 - :computer: I have a strong passion in Cyber Security.
 - 👀 Bug Bounties are an interesting way to make money. 
 - :chart_with_upwards_trend: I am proficient with Java, C#, Python, SQL and Web Development.
-- :email: How to reach me -> min.hm95@gmail.com
 - :clipboard: Check out my write-ups: https://min-htut-myat.gitbook.io/blog/
 
 ### Skills and Competencies
@@ -14,3 +13,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Kali%20Linux%20|%20Ubuntu-blue) <br>
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security%20-Bash%20Scripting%20|%20Blue%20Teaming%20Tools%20|%20Red%20Teaming%20Tools%20|%20Python-blue) <br>
 ![Operating System](https://img.shields.io/badge/Operating%20System-Windows-blue) --> have used windows since older releases like Windows 98 and Windows XP
+
+### Reach out to me
+![Email](min.hm95@gmail.com) <br>
+![LinkedIn](https://www.linkedin.com/in/min-htut-myat-bb22aa15b/)
