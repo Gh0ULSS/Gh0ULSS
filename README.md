@@ -13,4 +13,4 @@
 ![Web Development and Frameworks](https://img.shields.io/badge/Web%20Development%20and%20Frameworks-HTML%20|%20CSS%20|%20JavaScript%20|%20ASP.NET%20|%20React-blue) <br>
 ![Linux](https://img.shields.io/badge/Linux-Kali%20Linux%20|%20Ubuntu-blue) <br>
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security%20-Bash%20Scripting%20|%20Blue%20Teaming%20Tools%20|%20Red%20Teaming%20Tools%20|%20Python-blue) <br>
-![Operating System](https://img.shields.io/badge/Operating%20System-Windows-blue) --> have used windows since older releases like Windows 98 and Windows XP
+![Operating System](https://img.shields.io/badge/Operating%20System-Windows-blue) --> <p>have used windows since older releases like Windows 98 and Windows XP</p>
