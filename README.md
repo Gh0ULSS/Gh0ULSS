@@ -7,9 +7,9 @@
 - :email: How to reach me -> min.hm95@gmail.com
 - :clipboard: Check out my write-ups: https://min-htut-myat.gitbook.io/blog/
 
-Skills
+#### Skills and Competencies
 
 <ul>
-  <li>https://img.shields.io/badge/Programming%20Languages-Java%20|%20C++%20|%20C#%20|%20Python%20|%20Kotlin%20</li>
-  <li>https://img.shields.io/badge/Web Development%20-HTML%20|%20CSS%20|%20JavaScript%20|%20ASP.NET%20</li>
+  <li><img src="https://img.shields.io/badge/Programming%20Languages-Java%20|%20C++%20|%20C#%20|%20Python%20|%20Kotlin%20" alt="Programming Languages"></li>
+  <li><img src="https://img.shields.io/badge/Web Development%20-HTML%20|%20CSS%20|%20JavaScript%20|%20ASP.NET%20" alt="Web Development and Frameworks"></li>
 </ul>
