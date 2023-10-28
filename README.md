@@ -6,7 +6,7 @@ Hi, I am Min and I am a final year student studying Bachelors of Computer Scienc
 
 - :neckbeard: Hi, I’m Min
 - :computer: I have a strong passion in Cyber Security.
-- 👀 Bug Bounties are an interesting way to make money. 
+- 👀 Bug Bounties are an interesting way to making a living. 
 - :chart_with_upwards_trend: I am proficient with Java, C#, Python, SQL and Web Development.
 - :clipboard: Check out my write-ups: https://min-htut-myat.gitbook.io/blog/
 
