@@ -8,7 +8,7 @@ Hi, I am Min and I am a prospective masters student and have just finished my Ba
 - :computer: I have a strong passion in Cyber Security.
 - 👀 Bug Bounties are an interesting way to making a living. 
 - :chart_with_upwards_trend: I am proficient with Java, C#, Python, SQL and Web Development.
-- :clipboard: Check out my write-ups: https://min-htut-myat.gitbook.io/blog/
+- 📋 Check out my write-ups: https://min-htut-myat.gitbook.io/blog/
 
 ### Skills and Competencies
 
