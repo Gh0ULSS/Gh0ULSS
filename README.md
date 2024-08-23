@@ -4,7 +4,6 @@
 
 Hi, I am Min and I am a prospective masters student and have just finished my Bachelors of Computer Science at the University of Wollongong and have studied Information Technology at Diploma level previously. I hope to use all my experience to the fullest to make the most out of my university experience. I have a strong passion in Cyber Security which will push my problem solving skills to greater heights due to the emphasis of critical thinking involved.
 
-- :neckbeard: Hi, I’m Min
 - :computer: I have a strong passion in Cyber Security.
 - 👀 Bug Bounties are an interesting way to making a living. 
 - :chart_with_upwards_trend: I am proficient with Java, C#, Python, SQL and Web Development.
