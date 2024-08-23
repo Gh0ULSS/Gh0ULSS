@@ -18,7 +18,7 @@ Hi, I am Min and I am a prospective masters student and have just finished my Ba
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security%20-Bash%20Scripting%20|%20Blue%20Teaming%20Tools%20|%20Red%20Teaming%20Tools%20|%20Python-blue) <br>
 ![Operating System](https://img.shields.io/badge/Operating%20System-Windows-blue) --> have used Windows since older releases like Windows 98 and Windows XP
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gh0ULSS)](https://github.com/Gh0ULSS/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Gh0ULSS&show_icons=true&theme=dark)](https://github.com/Gh0ULSS/github-readme-stats)
 
 ### Reach out to me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/min-htut-myat-bb22aa15b/) <br>
