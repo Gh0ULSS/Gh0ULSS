@@ -11,7 +11,7 @@
 -~-~-~-~
 ```
 
-![Some gif]([https://i.gifer.com/9DUS.gif](https://www.reddit.com/r/gifs/comments/14km8o/100_accurate_depiction_of_a_hackers_desktop/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+![Some gif]([https://i.gifer.com/9DUS.gif]([https://www.reddit.com/r/gifs/comments/14km8o/100_accurate_depiction_of_a_hackers_desktop/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnR3MHF1NmxwdDc4aWE3NnU5MG12cW9ibmM3dmJ4aTQzMTd2cXVlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26uf5EfMqWNWCLbc4/giphy.gif))
 
 # Bio 👋 
 
