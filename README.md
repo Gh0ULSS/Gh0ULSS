@@ -11,7 +11,7 @@
 -~-~-~-~
 ```
 
-![Some gif]([https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnR3MHF1NmxwdDc4aWE3NnU5MG12cW9ibmM3dmJ4aTQzMTd2cXVlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26uf5EfMqWNWCLbc4/giphy.gif])
+![Some gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnR3MHF1NmxwdDc4aWE3NnU5MG12cW9ibmM3dmJ4aTQzMTd2cXVlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26uf5EfMqWNWCLbc4/giphy.gif)
 
 # Bio 👋 
 
